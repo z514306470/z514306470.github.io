@@ -23,7 +23,7 @@ github_username:  z514306470
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: voyager
 gems:
   - jekyll-feed
 exclude:
