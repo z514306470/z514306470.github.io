@@ -11,7 +11,7 @@ email: zhangqingqing288@gmail.com
 description: 君子藏器于身，待时而动。
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "http://z514306470.github.io" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  z514306470
 disqus_username:
